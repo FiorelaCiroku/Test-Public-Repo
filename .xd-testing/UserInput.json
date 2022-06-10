@@ -1,9 +1,4 @@
 {
   "fragments": [],
-  "ontologies": [
-    {
-      "url": "https:\\\\www.polifonia.com/musical-performance.owl",
-      "name": "Musical Performance"
-    }
-  ]
+  "ontologies": []
 }
