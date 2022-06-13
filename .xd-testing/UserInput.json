@@ -1,4 +1,9 @@
 {
   "fragments": [],
-  "ontologies": []
+  "ontologies": [
+    {
+      "url": "mp.owl",
+      "name": "musical performance"
+    }
+  ]
 }
